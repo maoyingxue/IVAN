@@ -1,11 +1,4 @@
-/******************************************
-   file name: Show.cpp
-   create time: 2018年1月31日 星期四 13时53分46秒
-   author: Jipeng Huang
-   e-mail: huangjipengnju@gmail.com
-   github: https://github.com/hjptriplebee
-   details: class of show function
-******************************************/
+
 #include "Common.h"
 
 void Show::showContours(const Size size, const vector<vector<Point> > &contours, const string windowName)
